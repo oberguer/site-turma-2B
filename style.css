@@ -26,9 +26,8 @@ width: 20%;
     
  }
  .colégio{
+    background-image: linear-gradient(#953D21,#A2D5C3);
      display: flex;
-     justify-content: center;
-     align-items: center;
  }
 
   
