@@ -27,7 +27,15 @@ width: 20%;
  }
  .colégio{
     background-image: linear-gradient(#953D21,#A2D5C3);
-     display: flex;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+ }
+
+ .colégio-div-conteudo{
+    width: 35%;
  }
 
   
