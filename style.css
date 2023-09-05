@@ -7,13 +7,13 @@
     background-color: #953D21;
 color: E5C3B9;
 display: flex ;
-justify-content: space-around;
+justify-content: center;
 align-items: center;
 padding: 24px 0;
 }
 
 .cabecalho-imagem{
-width: 20%;
+width: 10%;
 }
  .cabecalho-lista-item{
     display: inline-block;
@@ -22,7 +22,7 @@ width: 20%;
  }
 
  .colégio-imagen{
-    width: 50%;
+    width: 30%;
     
  }
  .colégio{
